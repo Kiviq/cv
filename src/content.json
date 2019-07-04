@@ -1,0 +1,33 @@
+{
+	"banner":{
+		"headline":"The road to perfection leads through the practice",
+		"baseline":"I'm Frontend Developer who wants to stay in touch with design."
+	},
+	"rest":{
+		"skillsHeadline": "Here you will find more information about my knowledge",
+		"portfolioHeadline": "Experience"
+	},
+	"about":{
+		"headline": "Hello my name is Maciej",
+		"firstPar": "I'm 26 years old Frontend Developer, who is currently looking for new opportunities and challenges. \n In 2016 I have been working on various different projects regarding Ecommerce in Poland but now I'm exploring world of rich media and experimental applications.",
+		"secPar": "My strenghts are design and Responsive implementation. I believe that simplicity is the key to functionality. \n Everyday I'm looking for new challenges and ways to solve them up. My previous job experiences thought me to be precise and assertive. Not always I've been developer, my previous position in Customer Care thought me how to manage projects and create briefs with clients. \n I've graduated Warsaw School of Applied Linguistics with major in translations, this gave me opportunity to work with passionate people. Also, my experience at Customer Care departments gives me leverage when it comes to business negatitations or making briefs with clients."
+	},
+	"jobs":{
+		"position": "Position",
+		"company": "Company",
+		"time": "Time",
+		"duties": "Duties",
+		"description": "Descritpiton"
+	},
+	"projects":{
+		"headline":""
+
+	},
+	"hobbies":{
+		"items": ["Video games", "Art", "Modern design", "Mobile markets growth", "VR Technology", "Sky diving", "Tattoos", "Animation"],
+		"headline":"My hobbies"
+	},
+	"contact":{
+
+	}
+}

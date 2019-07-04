@@ -1,0 +1,68 @@
+#portfolio {
+  .container-fluid{
+    > h3{
+      font-size: 2rem;
+    text-align: center;
+    background: rgba(243, 243, 243, 0.33);
+    padding: 20px;
+    }
+  }
+  .job {
+      display:  flex;
+      flex-direction:  row;
+      flex-wrap:  wrap;
+      justify-content:  center;
+      padding:1rem 0;
+      position: relative;
+      &:before{
+        content: "";
+        position: absolute;
+        width: 55%;
+        top: 100%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        height: 2px;
+        background: rgba(222, 173, 84, 0.18);
+        border-radius: 63%;
+      }
+      &:last-child{
+        &:before{
+          display:none;
+        }
+      }
+      > div{
+        margin-bottom:10px;
+      }
+      label {
+        width:  100%;
+        font-size:  14px;
+        text-align:  left;
+      }
+
+      span {
+        display:  flex;
+        flex-direction: column;
+        flex-wrap:  wrap;
+        justify-content: flex-start;
+        align-items: flex-start;
+      }
+      ul{
+        li{
+          text-align:left;
+        }
+      }
+      img {
+        max-width:  104px;
+      }
+      .duties{
+        ul {
+          padding:  0;
+          list-style:  none;
+        }
+      }
+      .desc{
+        text-align:left;
+      }
+  }
+}

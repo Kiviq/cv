@@ -1,0 +1,213 @@
+{
+		"navLinks": {
+			"home": {
+				"_name": "Home",
+				"url": "/",
+				"onepageURL": ""
+			},
+			"skills": {
+				"_name": "Skills",
+				"url": "/skills",
+				"onepageURL": ""
+			},
+			"About": {
+				"_name": "About",
+				"url": "/about",
+				"onepageURL": ""
+			},
+			"Experience": {
+				"_name": "Experience",
+				"url": "/experience",
+				"onepageURL": ""
+			},
+			"Hobby": {
+				"_name": "Hobby",
+				"url": "/hobbies",
+				"onepageURL": ""
+			},
+			"Projects": {
+				"_name": "Projects",
+				"url": "/projects",
+				"onepageURL": ""
+			},
+			"Contact": {
+				"_name": "Contact",
+				"url": "contact",
+				"onepageURL": ""
+			}
+		},
+		"hobbyList": [
+			{
+			"name": "Video games"
+			},
+			{
+			"name": "Art"
+			},
+			{
+			"name": "Modern design"
+			},
+			{
+			"name": "Mobile markets growth"
+			},
+			{
+			"name": "VR Technology"
+			},
+			{
+			"name": "Sky diving"
+			},
+			{
+			"name": "Tattoos"
+			},
+			{
+			"name": "Animation"
+			}
+		],
+		"jobList": [
+			{
+				"position": "Frontend Developer",
+				"company": "Sarigato",
+				"time": "July 2018 - Now",
+				"logo": "http://sarigato.com/assets/image/logo.svg",
+				"url": "http://sarigato.com",
+				"duties": ["Supervising internal processes","Internal systems refactoring","Maintaining and developing critical systems", "Helping less experienced colleagues","Developing new products to the company's portfolio", "Preparing dedicated solutions for brands", "Developing commercial applications for big brands", "Optimizing applications' performance", "Developing and maintaining new features introduced to the clients", "Active participation in choosing technologies"],
+				"description": "This job is constantly showing me that nothing is impossible. Each day our clients come up with new ideas to promote themselves where solution often turn out as an opportunity to gain new skills not only the technical. Variety of projects running in the company gives chance to experiment with functionalities to create something unique but also allow to work in teams on long term projects for global brands"
+			},
+			{
+				"position": "Junior Frontend Developer",
+				"company": "Shoplo",
+				"logo": "https://assets.shoplo.io/webpage/images/logo.svg",
+				"url": "http://shoplo.com",
+				"time": "September 2017 - July 2018",
+				"duties": ["Managing IT department concerning customer orders", "Preparing dedicated solutions for brands", "Refactoring production code", "Developing and maintaining new features introduced to the clients", "Maintaining brands websites"],
+				"description": "This job position gave me opportunity for my skills to thrive, from the beggining I've served over 400 ecommerce websites with custom designs and new functionalities."
+			},
+			{
+				"position": "Customer Success Specialist/ Customer Onboarding Specialist",
+				"company": "Shoplo",
+				"logo": "https://assets.shoplo.io/webpage/images/logo.svg",
+				"url": "http://shoplo.com",
+				"time": "February 2016 - September 2017",
+				"duties": ["Developing and testing new onboarding strategies with usage of Intercom, Hubspot and other engagement applications", "Providing technical support", "Preparing articles in help center", "Developing strategies concerning internal team flow", "Processing data for department's internal statistics"],
+				"description": "During holding this position I was responsible for creating internal onboarding flow and increasing conversion into subscription plan. During this time me and my team have increased conversion to 25% of lead base and also created core base of the onboarding processes and internal client lifecycle flow."
+			},
+			{
+				"position": "Freelance",
+				"company": "Self employed",
+				"time": "September 2015 - Now",
+				"url": "",
+				"logo": "",
+				"duties": ["Preparing English translations of various scientific works (in partnership with Military University of Technology in Warsaw)","Private speech interpreting","Assistance at meetings","Private English lessons"],
+				"description": "During this time I was practicing my academic knowledge. Whilist performing private English lessons I was cooperating with Military University of Technology in Warsaw with translations of their students' BE thesis and other publications. Additionally, I was helping foreigners with business meetings or visits in institutions."
+			}
+		],
+		"techSkills": [
+			{
+				"name": "HTML",
+				"stars": "5"
+			},
+			{
+				"name": "CSS",
+				"stars": "5"
+			},
+			{
+				"name": "Sass",
+				"stars": "5"
+			},
+			{
+				"name": "Javascript",
+				"stars": "5"
+			},
+			{
+				"name": "Jquery",
+				"stars": "6"
+			},
+			{
+				"name": "React.js",
+				"stars": "3"
+			},
+			{
+				"name": "Vue.js",
+				"stars": "3"
+			},
+			{
+				"name": "Twig",
+				"stars": "5"
+			},
+			{
+				"name": "Smarty",
+				"stars": "5"
+			},
+			{
+				"name": "Gulp",
+				"stars": "4"
+			},
+			{
+				"name": "Webpack",
+				"stars": "4"
+			},
+			{
+				"name": "Yarn",
+				"stars": "3"
+			},
+			{
+				"name": "Node.js",
+				"stars": "3"
+			},
+			{
+				"name": "Sketch",
+				"stars": "5"
+			},
+			{
+				"name": "Photoshop",
+				"stars": "4"
+			},
+			{
+				"name": "Communication",
+				"stars": "6"
+			},
+			{
+				"name": "Team Leadership",
+				"stars": "5"
+			},
+			{
+				"name": "Business Analysis",
+				"stars": "4"
+			},
+			{
+				"name": "Code review",
+				"stars": "4"
+			},
+			{
+				"name": "Team player",
+				"stars": "6"
+			},
+			{
+				"name": "Intercom",
+				"stars": "5"
+			},
+			{
+				"name": "Jira",
+				"stars": "4"
+			},
+			{
+				"name": "Basecamp",
+				"stars": "6"
+			},
+			{
+				"name": "Trello",
+				"stars": "5"
+			}
+		],
+		"projects": [
+			{
+				"name": "Loveys",
+				"link": "https://www.loveys.pl",
+				"description": "This is an online store with handmade toys and accesories for toddlers and newborns. It has been created because my wife is very talented and we wanted to monetize a little on it."
+			},
+			{
+				"name": "Wizytadomowa.pl",
+				"link": "https://wizytadomowa.pl",
+				"description": "It's a outcall searchengine for doctors, nurses, physiotherapist and other specialists and vets. Project is in creation phase. For now team counts 5 people."
+			}
+		]
+}
